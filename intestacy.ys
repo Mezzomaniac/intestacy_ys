@@ -9,7 +9,12 @@ PERSON the Deceased
 DATE the date of death
 MONEY the net value of (the intestate portion of) the estate
 
-RULE Section 14 - Entitlements on intestacy PROVIDES
-...
+//  ask if the deceased was domiciled in Western Australia
 
-RULE Section 14(1) Table Item 1
+RULE Section 14 - Entitlements on intestacy PROVIDES
+distribute the property of the deceased pursuant to section 14 ONLY IF
+    there is property as to which the deceased died intestate 
+
+RULE Section 14(1) Table Item 1 PROVIDES
+the surviving husband or wife shall be entitled, absolutely, to all household chattels included in the intestate property ONLY IF
+    the deceased died leaving a husband or wife (whether or not other persons mentioned in item 2 or 3 also survive)
