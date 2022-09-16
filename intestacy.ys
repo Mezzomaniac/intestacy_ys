@@ -1,0 +1,15 @@
+//  Codebase: Western Australia's Administration Act 1903
+//  Author/Contributor: Jeremy Thomas London
+//  Created: 16 September 2022
+//  Last Updated: 16 September 2022
+
+CONTEXT Australia's Western Australia's Administration Act 1903
+
+PERSON the Deceased
+DATE the date of death
+MONEY the net value of (the intestate portion of) the estate
+
+RULE Section 14 - Entitlements on intestacy PROVIDES
+...
+
+RULE Section 14(1) Table Item 1
